@@ -1,0 +1,10 @@
+{
+  "val_retrieval_at_1": 0.20083333333333334,
+  "num_samples": 8000,
+  "num_train": 6800,
+  "num_val": 1200,
+  "num_labels": 1058,
+  "embedding_dim": 128,
+  "stratified_split": false,
+  "require_brand": true
+}
